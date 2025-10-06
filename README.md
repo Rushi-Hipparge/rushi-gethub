@@ -1,3 +1,3 @@
 # rushi-gethub
-this is my first git respositry
+this is my first git respositry.
 Author - rushikesh
